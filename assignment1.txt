@@ -1,0 +1,21 @@
+Que1.What is a Computer?
+ANS: computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically.
+
+Q2.What is Ram?
+ANS:Ram is known as random access memory.It is the temperory memory.
+
+Q3.Where is data store in computer?
+ANS:The data is store temporarly in RAM and permanently in Hard disk of computer.
+
+Q4.
+ANS: Keyboard
+
+Q5.
+ANS:The devices which gives output when we give input to them are called as output devices
+
+Q6.
+ANS:Mouse or Touchpad in laptops
+Q7.
+ANS:Binary language
+Q8.
+ANS:The devices which are used to give input to the computer are known as input devices. Ex:mouse keyboard etc
