@@ -1,0 +1,12 @@
+Q1.
+Ans:programming language is a language to give and execute command and write program  in a computer.
+Q2.
+Ans:it is a interface between humans and computer(machine)for fast and effective communication.
+Q3.
+Ans:java is simple,object oriented,platform independent.
+Q4.
+Ans:An object is a member of a class
+Q5.
+Ans:class is a tempelate use to define objects data types and methods
+Q6.
+Ans:Main method is the entry point of an executable program
