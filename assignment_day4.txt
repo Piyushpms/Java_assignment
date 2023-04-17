@@ -1,0 +1,17 @@
+Q1.
+Ans= In Windows,open cmd and type the following command: git --version
+Q2.
+Ans= by using git init command
+Q3.
+Ans= for name:git config --global user.name
+email address:git config --global user.email
+Q4.
+Ans: using git add command
+Q5.
+Ans: using git rm command
+Q6.
+Ans:git commit -m
+Q7.
+Ans: using git push -u command
+Q8.
+Ans: git clone is how you get a local copy of an existing repository to work on.git pull is how you update that local copy with new commits from the remote repository.
